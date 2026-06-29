@@ -53,7 +53,7 @@ This framework utilizes the following datasets for its cyber-physical evaluation
 }
 ```
 
-**ACWA Water Systems Dataset**
+**ACWA Dataset**
 ```bibtex
 @article{ACWA,
     author = {Batarseh, Feras A. and Kulkarni, Ajay and Sreng, Chhayly and Lin, Justice and Maksud, Siam},
