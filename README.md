@@ -13,6 +13,7 @@ Our core components include:
 ```text
 /agroagenticgan_research
 ├── configs/               # Centralized hyperparameters
+├── dataset/               # T-ITS and ACWA benchmark datasets
 ├── src/
 │   ├── data/              # Telemetry loading and sequential window builders
 │   ├── models/            # Dual-GAN, LSTM, and DQN architectures
