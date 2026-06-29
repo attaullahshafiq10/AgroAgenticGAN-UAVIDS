@@ -1,6 +1,6 @@
 # AgroAgenticGAN
 
-Welcome to the official repository for **AgroAgenticGAN**, a two-tier cyber-physical framework designed for secure anomaly detection and autonomous control in UAV-assisted smart irrigation networks.
+Welcome to the official repository for **AgroAgenticGAN**, a two-tier cyber-physical framework (that submitted to Wiley-ETT journal) designed for secure anomaly detection and autonomous control in UAV-assisted smart irrigation networks.
 
 This architecture bridges the cyber-physical divide by combining an Aerial Tier for high-speed network intrusion detection with a Ground Tier governing physical actuation. 
 
