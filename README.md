@@ -71,3 +71,5 @@ Run the unified pipeline, which sequentially handles data augmentation, temporal
 ```bash
 python main_pipeline.py
 ```
+
+# AgroAgenticGAN-UAVIDS
